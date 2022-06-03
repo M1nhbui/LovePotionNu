@@ -1,1 +1,1 @@
-room_goto(RoomNhapID);
+room_goto(RoomNhapID_2);

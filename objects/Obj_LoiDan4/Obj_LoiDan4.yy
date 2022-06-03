@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_LoiThoaiBanHoc",
-    "path": "sprites/Spr_LoiThoaiBanHoc/Spr_LoiThoaiBanHoc.yy",
+    "name": "Spr_TextDan1",
+    "path": "sprites/Spr_TextDan1/Spr_TextDan1.yy",
   },
   "solid": false,
   "visible": true,

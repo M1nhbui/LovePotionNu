@@ -1,0 +1,1 @@
+room_goto(RoomNuChinh3_19);

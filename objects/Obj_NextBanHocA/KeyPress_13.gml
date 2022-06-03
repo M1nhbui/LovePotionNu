@@ -1,1 +1,1 @@
-room_goto(RoomBanHocB);
+room_goto(RoomBanHocB_5);

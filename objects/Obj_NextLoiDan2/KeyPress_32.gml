@@ -1,1 +1,1 @@
-room_goto(RoomNamChinh2);
+room_goto(RoomNamChinh2_11);

@@ -1,0 +1,1 @@
+room_goto(RoomNamChinh6_18);

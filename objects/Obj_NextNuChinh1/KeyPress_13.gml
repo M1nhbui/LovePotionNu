@@ -1,1 +1,1 @@
-room_goto(RoomLoiDan1);
+room_goto(RoomLoiDan1_8);
